@@ -17,7 +17,8 @@ body {
 
 .img{
     margin:20px;
-    /* float: left; */
+    width: 100%;
+    height: auto;
     text-align: center;}
 
 .h1{
